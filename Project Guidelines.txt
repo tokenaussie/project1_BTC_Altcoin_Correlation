@@ -1,0 +1,34 @@
+Kevin - Bitcoin
+James - Ethereum
+Kai - Polkadot
+Briar - Cardano
+
+First stage we each:
+
+Create an .ENV with a API_KEY
+
+Create a file that uses an API to gather crypto data from a website
+Suggest 3 years of week end data and weekly market capatilisation
+
+Clean data and create a table with 3 columns ['Date', 'Price(USD)', 'Market Cap']
+Return data
+
+
+Second stage:
+
+Create a .ENV with all the API_KEYS in one spot
+
+1.Sharpe ratio function
+
+2.Long term investment function - cumulative returns
+
+Best case function:
+Calculate covariance using rolling analysis lagging 1,2,3,4,5,6,7,8,9,10 days behind comaprative coin
+Attempting to prove that a coins price 'lags' another eg if Ethereum lags BTC by 3 days, we can create an Ethereum trading strategy based on this.
+
+3.Plotting results
+
+4.Final Conclusion of results - following theories are to be tested:
+Volatility of coin
+Long term returns
+Does any coin follow the others?
