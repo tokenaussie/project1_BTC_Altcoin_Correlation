@@ -1,0 +1,4 @@
+1. Decided on Crypto
+2. Decided on analysis
+3. Decided on wrok split for the firsthalf
+4. Decided on a data provider and how what data we need and how to access (investing.com CSV)
