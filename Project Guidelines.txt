@@ -5,12 +5,13 @@ Briar - Cardano
 
 First stage we each:
 
-Create an .ENV with a API_KEY
+#Create an .ENV with a API_KEY
 
-Create a file that uses an API to gather crypto data from a website
-Suggest 3 years of week end data and weekly market capatilisation
+#Create a file that uses an API to gather crypto data from a website
+#Suggest 3 years of week end data and weekly market capatilisation
 
-Clean data and create a table with 3 columns ['Date', 'Price(USD)', 'Market Cap']
+Load the CSV file into the function
+Clean data and create a table with 2 columns ['Date', 'Price(USD)']
 Return data
 
 
