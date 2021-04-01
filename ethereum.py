@@ -1,5 +1,5 @@
 # Import the pandas and pathlib libraries
-def ethereum(file1):
+def crypto(file1):
 
     import pandas as pd
     from pathlib import Path
