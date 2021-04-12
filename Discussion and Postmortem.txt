@@ -1,0 +1,31 @@
+Discussion
+
+Discuss your findings. Did you find what you expected to find? If not, why not? What inferences or general conclusions can you draw from your analysis?
+
+1. Correlation
+
+Data shows that correlation between Ethereum and Bitcoin's daily returns are at its greatest when comparing the same dates. As the dates are shifted, we found that the correlation actually decreased slightly the more the dates were offset between Ethereum and Bitcoin.
+
+This shows that 
+
+2. Exponentially Weighted Moving average
+
+3. Sharpe Ratio (Portfolio performance)
+
+Through performing the analysis we found that each of the 
+
+Postmortem
+
+Discuss any difficulties that arose, and how you dealt with them.
+
+1. GitHub commits
+
+2. Limitations of free software - unable to find an API that provided historical data
+
+Discuss any additional questions that came up, but which you didn't have time to answer: What would you research next, if you had two more weeks?
+
+1. Research the variables that affect each of the cryptocurrencies that we chose
+
+2. More cryptocurrencies. Run the statistical analysis on more coins
+
+3. 
