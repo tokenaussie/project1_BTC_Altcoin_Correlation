@@ -10,26 +10,26 @@ A brief timeline of Bitcoin can be summarised as followed.
 2017: Individual Investors (Bull market 1)  
 2020: Institutions buying in (Bull market 2)
 
-The terms Bitcoin, crytocurrency and blockchain are sometimes used interchangeably. This is a misnomer. Bitcoin is a type of crytoccurency running on it's own blockchain. However there are many coins, tokens, protocols, blockchains, decentralised finance projects in the cryptocurrency ecosystem.
+The terms Bitcoin, crytocurrency and blockchain are sometimes used interchangeably. This is a misnomer. Bitcoin is a type of crytoccurency running on its own blockchain. However there are many coins, tokens, protocols, blockchains, decentralised finance projects in the cryptocurrency ecosystem.
 
 At the time of producing this article (April 2021), cryptocurrency is currently in a bull market.
 
 There are many reasons to be bullish.
 Bitcoin has gone mainstream and now is too big to ignore.
 After all, it is the best performing asset of the last decade. (1)  
-During a congressional hearing on Cryptocurrencis, US Congressman Patrick McHenry stated that he expects Bitcoin to have tremendous value and utility over the long term. (2)  
+During a congressional hearing on Cryptocurrencies, US Congressman Patrick McHenry stated that he expects Bitcoin to have tremendous value and utility over the long term. (2)  
 Some people believe a combination of money printing and low, negative interest rates will cause traditional currencies like the USD to lose its global reserve currency status. Will Bitcoin become the next monetary base?
 
 ![global.png](images/global.png)
 
-Controversy is never far from Bitcoin. A combination of Cryptocurrency (Mt Gox etc) exchange hacks, lost passwords, scams, online anonymised drug marketplaces (Silk Road) sure make a telling drama.
+Controversy is never far from Bitcoin. A combination of Cryptocurrency exchange hacks (Mt Gox), lost passwords, scams, online anonymised drug marketplaces (Silk Road) sure make a telling drama.
 
 Nonetheless, the world is waking up to Bitcoin. Billionaires like Elon Musk, Michael Saylor, Paul Tudor Jones, Jack Dorsey, Chamath Palihapitiya, Nassim Taleb, Peter Thiel, Raoul Paul, and Naval Ravikant have already embraced Bitcoin. Is this just the beggining?
 
 # Hypothesis
 Bitcoin is synonymous with Cryptocurrency, being the first and most widespread. In pop culture, Bitcion would be referred to as the OG (Original Gangster). Most people have heard of Bitcoin. Fewer people have heard of Altcoins (Alternate coins).
 
-Our focus is on 4 coins/tokens: Bitcoin BTC, Ethereum ETH, Cardano ADA, Vechain VET.
+Our focus is on 4 coins/tokens: Bitcoin BTC, Ethereum ETH, Cardano ADA and Vechain VET.
 
 Our hypothesis is that there is a relationship between the prices of various cryptocurrencies, measured in USD, with ETH lagging BTC by 6 days.
 
@@ -100,7 +100,7 @@ During reasearch, it was difficult to find a free API which returned historical 
 There was data access issues with limitation of free software.
 Resorted to using a CSV instead.
 
-During git pushing, our main.ipynb file was written over.
+During git push, our main.ipynb file was written over.
 Luckily we had a backup.
 Although working with various branches sounds simple in theory, in practice it was frustrating.
 Syntax errors were common and often out of our scope of knowledge.
