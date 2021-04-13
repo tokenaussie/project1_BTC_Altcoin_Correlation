@@ -44,6 +44,7 @@ We created a python file (reader.py) which imports the CSV, drops the Open, High
 Daily returns were calculated over 12, 6 and 3 months.
 Due to the wide variation in prices, plotting the daily returns in a graph would result in unreadeble content visually.
 In order to counteract this problem, the returns were normalised to a value between 0 and 1. Graph were then plotted based on this ratio.
+
 ![dr12.png](images/dr12.png)
 ![dr6.png](images/dr6.png)
 ![dr3.png](images/dr3.png)
@@ -63,6 +64,7 @@ This is an indicator which gives more weighting or importance to recent price da
 
 Correlations were calculated using a matrix and heatmap.
 This is over 12 months.
+
 ![heatmap.png](images/heatmap.png)
 
 From the correlations, the Sharpe ratios were plotted.
