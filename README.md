@@ -8,7 +8,7 @@ A brief timeline of Bitcoin can be summarised as followed.
 2009: Creation of Bitcoin post Global Financial Crisis  
 2013: Early Innovators  
 2017: Individual Investors (Bull market 1)  
-2020: Institutions buying in (Bull makret 2)
+2020: Institutions buying in (Bull market 2)
 
 The terms Bitcoin, crytocurrency and blockchain are sometimes used interchangeably. This is a misnomer. Bitcoin is a type of crytoccurency running on it's own blockchain. However there are many coins, tokens, protocols, blockchains, decentralised finance projects in the cryptocurrency ecosystem.
 
