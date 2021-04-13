@@ -51,6 +51,7 @@ In order to counteract this problem, the returns were normalised to a value betw
 
 The next step in analysis was to calculate cumulative returns.
 Percentage returns were calculated, nulls dropped, and graphs plotted.
+
 ![cr12.png](images/cr12.png)
 ![cr6.png](images/cr6.png)
 ![cr3.png](images/cr3.png)
